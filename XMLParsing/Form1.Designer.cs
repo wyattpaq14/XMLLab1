@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.btnFindingChildren = new System.Windows.Forms.Button();
-            this.btnGetElementByTagName = new System.Windows.Forms.Button();
             this.txtResults = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -38,21 +37,11 @@
             // 
             this.btnFindingChildren.Location = new System.Drawing.Point(109, 21);
             this.btnFindingChildren.Name = "btnFindingChildren";
-            this.btnFindingChildren.Size = new System.Drawing.Size(100, 59);
+            this.btnFindingChildren.Size = new System.Drawing.Size(175, 59);
             this.btnFindingChildren.TabIndex = 7;
-            this.btnFindingChildren.Text = "Get Stock Names";
+            this.btnFindingChildren.Text = "Get Version Info";
             this.btnFindingChildren.UseVisualStyleBackColor = true;
-            this.btnFindingChildren.Click += new System.EventHandler(this.btnFindingChildren_Click);
-            // 
-            // btnGetElementByTagName
-            // 
-            this.btnGetElementByTagName.Location = new System.Drawing.Point(425, 21);
-            this.btnGetElementByTagName.Name = "btnGetElementByTagName";
-            this.btnGetElementByTagName.Size = new System.Drawing.Size(99, 59);
-            this.btnGetElementByTagName.TabIndex = 8;
-            this.btnGetElementByTagName.Text = "Get Revision Date";
-            this.btnGetElementByTagName.UseVisualStyleBackColor = true;
-            this.btnGetElementByTagName.Click += new System.EventHandler(this.btnGetElementByTagName_Click);
+            this.btnFindingChildren.Click += new System.EventHandler(this.btnGetVersionInfo);
             // 
             // txtResults
             // 
@@ -67,13 +56,13 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(244, 21);
+            this.button1.Location = new System.Drawing.Point(364, 21);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(132, 59);
+            this.button1.Size = new System.Drawing.Size(160, 59);
             this.button1.TabIndex = 11;
-            this.button1.Text = "Get all nodes and text";
+            this.button1.Text = "Get Contacts";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.btnReadXMLValues_Click);
+            this.button1.Click += new System.EventHandler(this.btnGetContacts);
             // 
             // Form1
             // 
@@ -82,7 +71,6 @@
             this.ClientSize = new System.Drawing.Size(630, 423);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtResults);
-            this.Controls.Add(this.btnGetElementByTagName);
             this.Controls.Add(this.btnFindingChildren);
             this.Name = "Form1";
             this.Text = "Set output as a console application";
@@ -94,7 +82,6 @@
 
         #endregion
         private System.Windows.Forms.Button btnFindingChildren;
-        private System.Windows.Forms.Button btnGetElementByTagName;
         private System.Windows.Forms.TextBox txtResults;
         private System.Windows.Forms.Button button1;
     }

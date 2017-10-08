@@ -77,7 +77,7 @@ namespace XMLParsing
                 Console.Write("File does not exist");
         }
 
-        private void btnReadXMLValues_Click(object sender, EventArgs e)
+        private void btnGetContacts(object sender, EventArgs e)
         {
 
 
@@ -135,7 +135,7 @@ namespace XMLParsing
             txtResults.Text = results.ToString();
         }
 
-        private void btnFindingChildren_Click(object sender, EventArgs e)
+        private void btnGetVersionInfo(object sender, EventArgs e)
         {
             string strFilename = Application.StartupPath + "\\ContactsManager.xml";
             StringBuilder results = new StringBuilder();
@@ -166,7 +166,7 @@ namespace XMLParsing
 
         }
 
-        private void btnGetElementByTagName_Click(object sender, EventArgs e)
+        private void btnGetPotato(object sender, EventArgs e)
         {
             string strFilename = Application.StartupPath + "\\ContactsManager.xml";
             StringBuilder results = new StringBuilder();

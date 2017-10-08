@@ -120,3 +120,13 @@ C:\Users\paqui\Desktop\XML Lab1\XMLParsing\obj\Debug\XMLParsing.csproj.GenerateR
 C:\Users\paqui\Desktop\XML Lab1\XMLParsing\obj\Debug\XMLParsing.csproj.CoreCompileInputs.cache
 C:\Users\paqui\Desktop\XML Lab1\XMLParsing\obj\Debug\XMLParsing.exe
 C:\Users\paqui\Desktop\XML Lab1\XMLParsing\obj\Debug\XMLParsing.pdb
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\bin\Debug\XMLParsing.exe.config
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\bin\Debug\XMLParsing.exe
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\bin\Debug\XMLParsing.pdb
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\obj\Debug\XMLParsing.csprojResolveAssemblyReference.cache
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\obj\Debug\XMLParsing.Form1.resources
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\obj\Debug\XMLParsing.Properties.Resources.resources
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\obj\Debug\XMLParsing.csproj.GenerateResource.Cache
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\obj\Debug\XMLParsing.csproj.CoreCompileInputs.cache
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\obj\Debug\XMLParsing.exe
+C:\Users\Wyatt\Source\Repos\XMLLab1\XMLParsing\obj\Debug\XMLParsing.pdb
