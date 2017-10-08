@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<ContactsManager>
+   <VersionDate>10/5/2017</VersionDate>
+   <VersionNumber>1.2</VersionNumber>
+  <Contact gender="F">
+      <FirstName>Tanmay</FirstName>
+      <LastName>Patil</LastName>
+      <Phone>1234567890</Phone>
+      <Fax>4014441284</Fax>
+      <Email>tanmaypatil@xyz.com</Email>
+  </Contact>
+  
+  <Contact gender="M">
+      <FirstName>John</FirstName>
+      <LastName>Doe</LastName>
+      <Phone>1234567890</Phone>
+      <Fax>4014441284</Fax>
+      <Email>jdoe@xyz.com</Email>
+  </Contact>
+  
+  <Contact gender="F">
+      <FirstName>Sally</FirstName>
+      <LastName>Anne</LastName>
+      <Phone>2222222222</Phone>
+      <Fax>4014441284</Fax>
+      <Email>sanne@xyz.com</Email>
+  </Contact>
+  
+  <Contact gender="M">
+      <FirstName>Wyatt</FirstName>
+      <LastName>Potato</LastName>
+      <Phone>3333333333</Phone>
+      <Fax>4014441284</Fax>
+      <Email>wpaotato@xyz.com</Email>
+  </Contact>
+  
+  <Contact gender="M">
+      <FirstName>Shoe</FirstName>
+      <LastName>Potato</LastName>
+      <Phone>5555555555</Phone>
+      <Fax>4014441284</Fax>
+      <Email>spotato@xyz.com</Email>
+  </Contact>
+</ContactsManager>
